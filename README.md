@@ -1,6 +1,6 @@
 # PCI-study
 According to PCI(Programming Collective Intelligence),I've learned a lot.
-# Returns the Pearson correlation coefficient for p1 and p2 皮尔逊相关系数
+# Returns the Pearson correlation coefficient for p1 and p2 皮尔逊相关系数,根据皮尔逊等价公式进行编写
 def sim_pearson(prefs,p1,p2):
   # Get the list of mutually rated items
   si={}
